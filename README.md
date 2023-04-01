@@ -19,5 +19,7 @@ Nexus 6 API 30
 ##Screenshots used-
 ![Screenshot (516)](https://user-images.githubusercontent.com/72222483/229295460-0285a9d7-c49b-4631-94f7-3b32e14d8df7.png)
 ![Screenshot (523)](https://user-images.githubusercontent.com/72222483/229295505-bca334a5-8b80-41e0-a788-f1f82e8ba30f.png)
+![splash s](https://user-images.githubusercontent.com/72222483/229295599-3e04bc4f-aaa1-4747-9ac2-b7f774e1ccb3.png)
+
 
 
